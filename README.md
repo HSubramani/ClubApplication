@@ -6,4 +6,4 @@ This web application is used to monitor club member data, create weekly problem 
 
 Technologies used
 -----------------
-This is a web application developed with Django and PostgreSQL for backend developemnt and HTML, CSS, Bootstrap and Django.
+This is a web application developed with Django, PostgreSQL for backend developemnt and HTML, CSS, Bootstrap, JavaScript for frontend web design.
