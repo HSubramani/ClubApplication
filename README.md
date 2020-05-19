@@ -2,7 +2,7 @@
 
 About this project
 -------------------
-This web application is used to monitor club member data, create weekly solving challenges and organise events in a college.
+This web application is used to monitor club member data, create weekly problem solving challenges and organise events in a college.
 
 Technologies used
 -----------------
